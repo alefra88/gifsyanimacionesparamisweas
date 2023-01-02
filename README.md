@@ -1,3 +1,3 @@
-# gifsyanimacionesparamisweas
+# nerdygifs
 
 just a gifs
